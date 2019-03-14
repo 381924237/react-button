@@ -1,0 +1,37 @@
+.btn {
+  box-sizing: border-box;
+  background: #fff;
+  border: 1px solid rgba(153,153,153,1);
+  border-radius: 4px;
+  padding: 4px 1em;
+  margin: 5px;
+  position: relative;
+  outline: none;
+  overflow: hidden;
+}
+
+.content{
+  position: relative;
+  z-index: 1;
+}
+
+.circle {
+  position: absolute;
+  background: rgb(5, 214, 144);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  animation: 1s big forwards;
+  z-index: 0;
+  opacity: .5;
+}
+
+@keyframes big{
+  0% {
+    transform: scale(0.1);
+  }
+  100% {
+    transform: scale(10);
+  }
+}
