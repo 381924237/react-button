@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-button/static/css/main.8eb75c28.chunk.css",
-  "main.js": "/react-button/static/js/main.3f4ea01c.chunk.js",
-  "main.js.map": "/react-button/static/js/main.3f4ea01c.chunk.js.map",
-  "runtime~main.js": "/react-button/static/js/runtime~main.05557b3c.js",
-  "runtime~main.js.map": "/react-button/static/js/runtime~main.05557b3c.js.map",
-  "static/js/2.4952e05c.chunk.js": "/react-button/static/js/2.4952e05c.chunk.js",
-  "static/js/2.4952e05c.chunk.js.map": "/react-button/static/js/2.4952e05c.chunk.js.map",
-  "index.html": "/react-button/index.html",
-  "precache-manifest.8fded210319fa3e66627dcfc00e7cb29.js": "/react-button/precache-manifest.8fded210319fa3e66627dcfc00e7cb29.js",
-  "service-worker.js": "/react-button/service-worker.js",
-  "static/css/main.8eb75c28.chunk.css.map": "/react-button/static/css/main.8eb75c28.chunk.css.map"
+  "main.css": "/react-button/build/static/css/main.8eb75c28.chunk.css",
+  "main.js": "/react-button/build/static/js/main.358c12c9.chunk.js",
+  "main.js.map": "/react-button/build/static/js/main.358c12c9.chunk.js.map",
+  "runtime~main.js": "/react-button/build/static/js/runtime~main.bfe52ebd.js",
+  "runtime~main.js.map": "/react-button/build/static/js/runtime~main.bfe52ebd.js.map",
+  "static/js/2.4952e05c.chunk.js": "/react-button/build/static/js/2.4952e05c.chunk.js",
+  "static/js/2.4952e05c.chunk.js.map": "/react-button/build/static/js/2.4952e05c.chunk.js.map",
+  "index.html": "/react-button/build/index.html",
+  "precache-manifest.242bd643f3685268afcddc0a9970e62e.js": "/react-button/build/precache-manifest.242bd643f3685268afcddc0a9970e62e.js",
+  "service-worker.js": "/react-button/build/service-worker.js",
+  "static/css/main.8eb75c28.chunk.css.map": "/react-button/build/static/css/main.8eb75c28.chunk.css.map"
 }
